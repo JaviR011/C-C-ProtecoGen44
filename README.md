@@ -25,15 +25,3 @@ Los comandos para interactuar con "Toad" incluyen, pero no se limitan a, los sig
 1. `hablar`: Hace que "Toad" diga algo.
 2. `mover`: Mueve a "Toad" en una dirección especificada.
 3. `bailar`: Hace que "Toad" realice una danza.
-
-## Contribuir
-
-Las contribuciones al proyecto son bienvenidas. Por favor, consulte las directrices de contribución en el archivo `CONTRIBUTING.md` para obtener más detalles.
-
-## Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT. Consulte el archivo `LICENSE.md` para obtener más detalles.
-
-## Contacto
-
-Para preguntas, comentarios o sugerencias, por favor abra un 'issue' en el repositorio del proyecto en GitHub.
