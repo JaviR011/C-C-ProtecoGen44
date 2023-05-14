@@ -6,7 +6,7 @@ El proyecto "Toad Interactivo" es una aplicación de consola escrita en C++ que 
 
 ## Características
 
-1. **Interactividad:** Los usuarios pueden interactuar con "Toad" a través de un conjunto de comandos predefinidos.
+1. **Interactividad:** Los usuarios pueden interactuar con "Toad" a través de un conjunto de comandos predefinidos (Lea las instrucciones para saber más al respecto).
 2. **Respuestas Dinámicas:** "Toad" tiene una variedad de respuestas y acciones basadas en los comandos de los usuarios.
 3. **Escrito en C++:** El proyecto está programado en C++, lo que permite una eficiencia de rendimiento y compatibilidad con una variedad de sistemas operativos.
 
