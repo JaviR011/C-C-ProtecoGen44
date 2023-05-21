@@ -48,7 +48,47 @@ void ModeloNintendo::trucos(std::string combinacionTeclas) {
 void ModeloNintendo::revelarSecretos(std::string combinacionTeclas) {
     std::cout << "Hola";
 }
+// Implementación de los getters
+std::string ModeloNintendo::getNombre() const {
+    return nombre;
+}
 
+std::string ModeloNintendo::getColor() const {
+    return color;
+}
+
+int ModeloNintendo::getEdad() const {
+    return edad;
+}
+
+bool ModeloNintendo::getEsHumano() const {
+    return esHumano;
+}
+
+char ModeloNintendo::getLetraInicial() const {
+    return letraInicial;
+}
+
+// Implementación de los setters
+void ModeloNintendo::setNombre(const std::string& nombre) {
+    this->nombre = nombre;
+}
+
+void ModeloNintendo::setColor(const std::string& color) {
+    this->color = color;
+}
+
+void ModeloNintendo::setEdad(int edad) {
+    this->edad = edad;
+}
+
+void ModeloNintendo::setEsHumano(bool esHumano) {
+    this->esHumano = esHumano;
+}
+
+void ModeloNintendo::setLetraInicial(char letraInicial) {
+    this->letraInicial = letraInicial;
+}
 void setColor(int color) {
     HANDLE hConsole;
     hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
