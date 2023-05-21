@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <thread>
 
 using namespace std;
 
@@ -26,6 +27,7 @@ class ModeloNintendo {
     int getEdad() const;
     bool getEsHumano() const;
     char getLetraInicial() const;
+    int getSalud() const;
 
     // Setters
     void setNombre(const std::string& nombre);
